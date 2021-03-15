@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monomux&layout=compact&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![]( https://visitor-badge.glitch.me/badge?page_id=Monomux.github.com)
 
 
 
