@@ -10,7 +10,7 @@
 
 + **Tools for Code**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white)  ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual Studio 2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white)  ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white)
 
 ## Github Stats
 
