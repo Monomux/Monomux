@@ -1,16 +1,16 @@
 # Hi there 
 
 - 👋 Hi, this is @Monomux, merely a student in college
-- 👀 I’m interested in Java and C++
-- 🌱 I’m currently learning JavaFX and Java Web programing
+- 👀 I’m interested in Java, Python and C++
+- 🌱 I’m currently learning JavaFX and Python programing
 - 🕊️ You can contact me by Monomux@Outlook.com
 - **Concerned Language**
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white)  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&color=blueviolet&logo=JavaScript&logoColor=white)  ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white)  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&color=blueviolet&logo=JavaScript&logoColor=white)  ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white)![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white)
 
-+ **Tools for Code**
++ **Tools for Coding**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white)  ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white)  ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)  ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white)![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white)
 
 ## Github Stats
 
