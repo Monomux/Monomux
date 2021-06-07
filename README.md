@@ -20,7 +20,7 @@
 
 <!--[]( https://visitor-badge.glitch.me/badge?page_id=Monomux.github.com)-->
 
-#### Wakatime Stats
+## Wakatime Stats
 
 [![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
