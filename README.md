@@ -10,7 +10,7 @@
 
 + **Tools for Coding**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white)![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white) ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)
 
 ## Github Stats
 
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monomux&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![]( https://visitor-badge.glitch.me/badge?page_id=Monomux.github.com)
+<!--[]( https://visitor-badge.glitch.me/badge?page_id=Monomux.github.com)-->
 
 #### Wakatime Stats
 
