@@ -10,7 +10,7 @@
 
 + **Tools for Coding**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Visual_Studio_2015-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white) ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white)
 
 ## Github Stats
 
@@ -20,11 +20,11 @@
 
 <!--[]( https://visitor-badge.glitch.me/badge?page_id=Monomux.github.com)-->
 
-## Wakatime Stats
+<!-- ## Wakatime Stats -->
 
-[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### 
+<!-- ###  -->
 
 
 
