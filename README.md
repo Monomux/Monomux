@@ -10,7 +10,7 @@
 
 + **Tools for Coding**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Visual_Studio_2012-informational?style=flat-square&color=blueviolet&logo=Visual-Studio&logoColor=white) ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white) ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat-square&color=blueviolet&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Clion-informational?style=flat-square&color=blueviolet&logo=Clion&logoColor=white) ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&color=blueviolet&logo=Eclipse&logoColor=white) ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat-square&color=blueviolet&logo=RStudio&logoColor=white)
 
 ## Github Stats
 
