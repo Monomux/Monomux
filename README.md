@@ -22,7 +22,7 @@
 
 ## Wakatime Stats
 
-[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt&layout=compact)
+![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt&layout=compact)
 
 <!--[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
