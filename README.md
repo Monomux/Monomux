@@ -1,12 +1,12 @@
 # Hi there 
 
 - 👋 Hi, this is @Monomux, merely a student in college
-- 👀 I’m interested in Java, Python, R, Julia and C++
-- 🌱 I’m currently learning Julia and scientific programing
+- 👀 I’m interested in Julia, Python, Java, C++ and R
+- 🌱 I’m currently learning deep learning
 - 🕊️ You can contact me by Monomux@Outlook.com
 - **Concerned Language**
 
-![](https://img.shields.io/badge/Lang-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Lang-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lang-R-informational?style=flat-square&color=blueviolet&logo=R&logoColor=white) ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat-square&color=blueviolet&logo=Julia&logoColor=white)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Lang-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat-square&color=blueviolet&logo=Julia&logoColor=white) ![](https://img.shields.io/badge/Lang-R-informational?style=flat-square&color=blueviolet&logo=R&logoColor=white) 
 
 + **Tools for Coding**
 
