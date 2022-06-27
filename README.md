@@ -1,16 +1,15 @@
 # Hi there 
 
 - 👋 Hi, this is @Monomux, merely a student in college
-- 👀 I’m interested in Julia, Python, Java, C++ and R
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in Julia, Python, C++ and Java
 - 🕊️ You can contact me by Monomux@Outlook.com
 - **Concerned Language**
 
-![](https://img.shields.io/badge/Lang-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Lang-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat-square&color=blueviolet&logo=Julia&logoColor=white) ![](https://img.shields.io/badge/Lang-R-informational?style=flat-square&color=blueviolet&logo=R&logoColor=white) 
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Lang-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat-square&color=blueviolet&logo=Julia&logoColor=white) 
 
 + **Tools for Coding**
 
-![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Clion-informational?style=flat-square&color=blueviolet&logo=Clion&logoColor=white) ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat-square&color=blueviolet&logo=Visual-Studio-Code&logoColor=white) ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat-square&color=blueviolet&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat-square&color=blueviolet&logo=IntelliJ-IDEA&logoColor=white) ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat-square&color=blueviolet&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/IDE-Clion-informational?style=flat-square&color=blueviolet&logo=Clion&logoColor=white) ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat-square&color=blueviolet&logo=Visual-Studio-Code&logoColor=white) 
 
 ## Github Stats
 
