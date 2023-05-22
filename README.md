@@ -21,7 +21,7 @@
 
 ## Wakatime Stats
 
-![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt&layout=compact&langs_count=10&hide=Text,Other,Git%20Config,RPMSpec)
+![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt&range=last_year&layout=compact&langs_count=10&hide=Text,Other,Git%20Config,RPMSpec)
 
 <!--[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
