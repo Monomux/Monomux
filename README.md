@@ -1,7 +1,6 @@
 # Hi there 
 
-- 👋 Hi, this is @Monomux, merely a student
-- 👀 I’m interested in Julia, Python, C++ and Java
+- 👋 Hi, this is @Monomux, merely a student who's not majored in computer science
 - 🕊️ You can contact me by Monomux@Outlook.com
 - **Concerned Language**
 
