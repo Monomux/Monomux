@@ -1,7 +1,7 @@
 # Hi there 
 
 - 👋 Hi, this is @Monomux, merely a student who's not majored in computer science. As a novice in this field, I write programs out of researching purpose or personal interest. 
-- 🕊️ You can contact me by Monomux@Outlook.com or Monomux@163.com
+- 🕊️ You can contact me by Monomux@Outlook.com
 - **Concerned Language**
 
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat-square&color=blueviolet&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat-square&color=blueviolet&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Lang-C++-informational?style=flat-square&color=blueviolet&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat-square&color=blueviolet&logo=Julia&logoColor=white) ![](https://img.shields.io/badge/Lang-Lua-informational?style=flat-square&color=blueviolet&logo=Lua&logoColor=white) 
