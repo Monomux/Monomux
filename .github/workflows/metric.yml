@@ -9,8 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
+    environment: production
     permissions:
       contents: write
     steps:
@@ -29,4 +28,11 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Asia/Shanghai
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
